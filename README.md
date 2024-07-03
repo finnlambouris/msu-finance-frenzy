@@ -16,7 +16,7 @@
 ## Credits
 This web application was designed by:<br>
 Finn Lambouris - [finntendoverse](https://github.com/finntendoverse)<br>
-Dylan Slyter - [Dylanslyter](https://github.com/Dylanslyter)
+Dylan Slyter - [Dylanslyter](https://github.com/Dylanslyter)<br>
 Shawn Carlson - [OxMagnus](https://github.com/OxMagnus)<br>
 Matt Yee - [Matt-Yee](https://github.com/Matt-Yee)<br>
 
