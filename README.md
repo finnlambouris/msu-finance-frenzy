@@ -1,4 +1,7 @@
-# Project 3
+# Finance Frenzy
+
+## Wireframe
+![Wireframe](./client/public/Wireframe.png)
 
 ## Description
 
